@@ -1,0 +1,26 @@
+<records>
+  <record>
+    <reference>1</reference>
+    <accountNumber>AC1</accountNumber>
+    <description>Desc1</description>
+    <startBalance>20</startBalance>
+    <mutation>15</mutation>
+    <endBalance>5</endBalance>
+  </record>
+  <record>
+    <reference>2</reference>
+    <accountNumber>AC2</accountNumber>
+    <description>Desc2</description>
+    <startBalance>25</startBalance>
+    <mutation>15</mutation>
+    <endBalance>10</endBalance>
+  </record>
+  <record>
+    <reference>2</reference>
+    <accountNumber>AC3</accountNumber>
+    <description>Desc3</description>
+    <startBalance>29</startBalance>
+    <mutation>13</mutation>
+    <endBalance>16</endBalance>
+  </record>
+</records>
